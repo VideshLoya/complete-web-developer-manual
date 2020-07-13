@@ -7,7 +7,7 @@ All resources and notes from the Complete Web Developer in 2020: Zero to Mastery
 ## 1.	__Introduction__
 
 Discord Channel:
-*	~~https://discord.gg/nVmbHYY~~ You will find it inside course
+*	https://discord.gg/kDsZfGc
 ******************************************************************************************
 ## 2.	__How The Internet Works__
 
@@ -916,13 +916,4 @@ heroku pg:psql
 The Complete Junior to Senior Web Developer Roadmap (2019):
 *	https://www.udemy.com/the-complete-junior-to-senior-web-developer-roadmap/
 
-******************************************************************************************
-## 30.	__Bonus: Extra Bits (Coding Challenges + AMA)__
-******************************************************************************************
-******************************************************************************************
-## 31.	__Extra: For Windows Users__
-******************************************************************************************
-******************************************************************************************
-## 32.	__Bonus: Part 2 - Special Thank You Gift (Discount Coupons)__
-******************************************************************************************
 
